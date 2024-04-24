@@ -1,0 +1,15 @@
+end goal: MAKE A SCRIPT WHO RUNS AND CHECK CURRENT TIME AND IF TIME IS EQUAL TO ATHAN TIME THEN A SEND A NOTIFICATION TO MY EMAIL AS ALAEM FOR PRAYER
+
+
+Breaking down the problem
+
+step 1: Fetch current date,time and day name - done
+
+step 2: send a get request to endpoint with relevant data - done
+
+step 3: get the response and check the ouput
+
+step 4: if current time is less than a equal prayer time then go for next
+else if time match then send a notificaiton to me .
+
+step - 5 using file manipulation email a template about the alarm of prayer, and in template the specific prayer should be mention
